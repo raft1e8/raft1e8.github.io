@@ -1,2 +1,0 @@
-# contents
-sample sentence
