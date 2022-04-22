@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "Page"
-permalink: 
+permalink: https://raft1e8.github.io/
 ---
 test
