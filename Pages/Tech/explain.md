@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tech"
-permalink: https://raft1e8.github.io/Pages/Tech/explain
+permalink: https://raft1e8.github.io/Pages/Tech
 ---
 
 様々なテクニック
