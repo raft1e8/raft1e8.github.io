@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "PAGE TITLE"
+title: "Page"
 permalink: https://raft1e8.github.io
 ---
 test
