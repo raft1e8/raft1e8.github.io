@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mo's algorithm"
-permalink: https://raft1e8.github.io/Pages/Tech/Mo
+permalink: https://raft1e8.github.io/Pages/Tech
 ---
 
 [HOME]("https://raft1e8.github.io) > [TECH]("https://raft1e8.github.io/Pages/Tech.html") > [Mo's alogrithm]("https://raft1e8.github.io/Pages/Tech/Mo.html")
