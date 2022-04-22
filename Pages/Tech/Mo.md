@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Mo's algorithm"
+title: "Mo's alogrithm"
 permalink: https://raft1e8.github.io/Pages/Tech
 ---
 
