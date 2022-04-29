@@ -1,4 +1,4 @@
-[HOME]("../") > [TECH]("https://raft1e8.github.io/Pages/Tech.html") > [Mo's alogrithm]("https://raft1e8.github.io/Pages/Tech/Mo.html")
+[HOME](./) > [TECH]("https://raft1e8.github.io/Pages/Tech.html") > [Mo's alogrithm]("https://raft1e8.github.io/Pages/Tech/Mo.html")
 
 # Mo's algorithm 
 
